@@ -1,0 +1,8 @@
+##Instalar WSL y Ubuntu en Windows
+	wsl --install
+
+##Ejecutar
+	dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+##Ir a características de Windows
+	Activar Subsistema de Windows para linux

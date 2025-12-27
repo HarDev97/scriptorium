@@ -1,0 +1,20 @@
+##Instalar github
+	sudo apt-get install git-all
+	git version
+
+##Configurar ssh
+	ssh-keygen -t ed25519 -C "har.rod.pe@outlook.com"
+
+##Iniciar egente ssh
+	eval "$(ssh-agent -s)"
+
+##Agregar llave al ssh
+	ssh-add ~/.ssh/id_ed25519
+	
+##Obtener llave publica para poner en github
+	cat ~/.ssh/id_ed25519.pub
+
+##Configurar parámetros globales
+	git config --global user.name "NombreUsuario"
+	git config --global user.email "correo@dominio.com"
+	
