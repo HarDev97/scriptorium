@@ -12,7 +12,7 @@ La organización sigue la misma estructura del índice principal para facilitar 
 Configuración de WSL, instalación de Python, Node.js, Git, herramientas base.
 
 **Fuentes:**
-- [Curso de Configuración de Entorno de Desarrollo en Windows - Platzi](https://ubuntu.com/wsl)
+- [Curso de Configuración de Entorno de Desarrollo en Windows - Platzi](https://platzi.com/cursos/configuracion-windows/)
 ---
 
 ## II. Programación Intermedia  
