@@ -1,5 +1,6 @@
-# 📘 Scriptorium  
-### *Compendio de resúmenes y proyectos para aprender programación y ciencia de datos*
+# 📘 Scriptorium
+
+### _Compendio de resúmenes y proyectos para aprender programación y ciencia de datos_
 
 ---
 
@@ -8,24 +9,23 @@
 Cada carpeta representa una **sección** del tomo, y cada sección contiene materiales, resúmenes o proyectos prácticos.
 
 ### **I. Fundamentos**
-- `01-configuracion-entorno-windows/` — Configuración del entorno subsistema linux en windows, instalación y configuración de nodejs, npm, pyhton y github.  
+
+- `01-configuracion-entorno-windows/` — Configuración del entorno subsistema linux en windows, instalación y configuración de nodejs, npm, pyhton y github.
 
 ### **II. Programación Intermedia**
 
 ### **III. Ciencia de Datos**
 
-
-### **IV. Machine Learning**
-
+### **IV. Ingeniera de Software en Inteligencia Artificial**
 
 ### **V. Proyectos Aplicados**
-
 
 ### **VI. Recursos y Notas**
 
 ---
 
 ## 🧭 Cómo usar este Scriptorium
+
 Este repositorio está organizado como un **libro de estudio**, donde cada carpeta funciona como un **capítulo**.  
 Puedes recorrerlo de forma lineal o saltar directamente a la sección que necesites.
 
@@ -41,9 +41,9 @@ Este proyecto no pretende atribuirse conocimientos propios: reúne enseñanzas t
 
 ## 📜 Colofón
 
-> ### 
+> ###
+>
 > **“El corazón entendido busca el conocimiento.”**  
-> *(Proverbios 15:14)*  
+> _(Proverbios 15:14)_
 
 ---
-
