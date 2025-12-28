@@ -12,6 +12,8 @@ Cada carpeta representa una **sección** del tomo, y cada sección contiene mate
 
 - `01-configuracion-entorno-windows/` — Configuración del entorno subsistema linux en windows, instalación y configuración de nodejs, npm, pyhton y github.
 
+- `02-configuracion-entorno-ciencia-datos/` — Configuración del entorno para ciencia de datos, manejador de paquetes, visual estudio code e instalación de extensiones.
+
 ### **II. Programación Intermedia**
 
 ### **III. Ciencia de Datos**
